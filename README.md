@@ -37,11 +37,13 @@
 - **Banco de dados**: PostgreSQL / MySQL
 - **Ferramentas**: Git • GitHub • VS Code
 
-### 📊 GitHub Stats
+### 📊 Minhas Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldokaras&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaldokaras&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaldokaras&show_icons=true&theme=tokyonight)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldokaras&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronaldokaras&theme=tokyonight&hide_border=true)
 
 ---
 
